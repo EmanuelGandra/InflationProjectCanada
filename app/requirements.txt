@@ -1,0 +1,27 @@
+
+# Data
+numpy
+pandas
+
+# Seasonal adjustment / econometrics
+statsmodels
+
+# StatCan
+stats_can
+
+# Visualização
+plotly
+altair
+plotnine
+
+# App
+streamlit
+
+# Exportação / IO
+openpyxl
+XlsxWriter
+
+# PDF / imagens (opcional)
+kaleido
+reportlab
+playwright
